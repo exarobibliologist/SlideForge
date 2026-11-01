@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "/QIN5D7L9Lk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\GitHub\\SlideForge\\SlideForge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\libvlcsharp\\3.10.2\\libvlcsharp.3.10.2.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\libvlcsharp.wpf\\3.10.2\\libvlcsharp.wpf.3.10.2.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\videolan.libvlc.windows\\3.0.24\\videolan.libvlc.windows.3.0.24.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.33\\microsoft.windowsdesktop.app.ref.8.0.33.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.33\\microsoft.netcore.app.ref.8.0.33.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.33\\microsoft.aspnetcore.app.ref.8.0.33.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.33\\microsoft.netcore.app.host.win-x64.8.0.33.nupkg.sha512"
+  ],
+  "logs": []
+}

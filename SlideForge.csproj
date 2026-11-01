@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>WinExe</OutputType>
+		<TargetFramework>net8.0-windows</TargetFramework>
+		<Nullable>enable</Nullable>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<UseWPF>true</UseWPF>
+		<Company>exarobibliologist</Company>
+		<FileVersion>1.5.0.0</FileVersion>
+		<!-- Embeds the icon into SlideForge.exe, Taskbar, Shortcuts & Explorer Right-Click Menu -->
+		<ApplicationIcon>SlideForge.ico</ApplicationIcon>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<Resource Include="SlideForge.ico" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="LibVLCSharp.WPF" Version="*" />
+		<PackageReference Include="VideoLAN.LibVLC.Windows" Version="*" />
+	</ItemGroup>
+
+</Project>
