@@ -1,3 +1,6 @@
 /bin
 /Installer
 /obj/Release
+/.vs
+/.vs/ProjectEvaluation
+SlideForge.iss
