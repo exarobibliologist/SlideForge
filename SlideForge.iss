@@ -1,6 +1,6 @@
 ; SlideForge Inno Setup Installer Script
 #define MyAppName "SlideForge"
-#define MyAppVersion "1.7.5.2"
+#define MyAppVersion "1.7.5.5"
 #define MyAppPublisher "exarobibliologist"
 #define MyAppExeName "SlideForge.exe"
 ; Point this to your Visual Studio Publish folder:
