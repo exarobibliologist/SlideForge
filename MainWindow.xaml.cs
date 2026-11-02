@@ -1905,11 +1905,14 @@ namespace SlideForge
             {
                 if (!_isVideoActive || _vlcPlayer == null) return;
 
-                if (_isPlaying && ChkWaitVideoFinish.IsChecked == true)
+                if (ChkWaitVideoFinish.IsChecked == true)
                 {
-                    _slideshowTimer.Stop();
-                    _slideshowTimer.Start();
-                    StepImage(1, isAutoTick: true);
+                    if (_isPlaying)
+                    {
+                        _slideshowTimer.Stop();
+                        _slideshowTimer.Start();
+                    }
+                    StepImage(1, isAutoTick: false);
                 }
                 else if (_currentVlcMedia != null)
                 {
