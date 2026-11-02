@@ -20,6 +20,8 @@ But, I wanted to go further... I was currently using two media players on my com
 
 I was already using VLC media codecs, so that was half the battle. From version 1.4+, I began focusing on adding more of the SM player ideas to the app. For example, I added a subtitle searcher. Once you enter/save your API key for OpenSubtitles into the SlideForge program, you could add subtitles directly to the video folder. Now it works like SMPlayer too.
 
+![SlideForge running with Tab Bar](images/SlideForge_G9N0TgVIuz.png)
+
 At this point, I have a slideshow player that also does video codecs and can look up subtitles for those videos, but I wanted to go further. At this point, I decided, could it also do all media?
 
 VLC already had the ability to play audio files, but my program, even though it used VLC codecs, was only set up for images or video. Version 1.7+ I decided to unlock everything. So now my program can do images, videos, and audio files.
